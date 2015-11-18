@@ -1,3 +1,3 @@
 source 'https://rubygems.org/'
-gem 'spree', github: 'spree/spree', branch: '2-4-stable'
+gem 'solidus', '>= 1.0', '<= 2'
 gemspec
